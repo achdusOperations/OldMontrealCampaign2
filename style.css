@@ -78,9 +78,23 @@
         color:#FFF;
     }
     /*button*/
-    .fs-btn, .fs-btn:hover{
+    .fs-donate .fs-btn, .fs-donate .fs-btn:hover{
         background-color: #FFF !important;
         border-radius: 25px !important;
         color:#16396a !important;
     }
  
+/*donor listing*/
+   /*top line*/
+   .fs-partners>div{
+    border-top:6px solid #16396a;
+    }
+    /*"our donors"*/
+   .text-center h3, .fs-partners h3 span {
+    color:#FFF;
+    }
+     /*"view all donors / be the first"*/
+   .js-donors-list .fs-btn,.js-donors-list .fs-btn:hover{
+    background:#f5de68;
+    border-radius: 25px !important;
+    }
