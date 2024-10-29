@@ -44,4 +44,19 @@
     .fs-goal-graph{
         background: #f5de68 !important;
     }
+/*countdown*/
+    .fs-countdown {
+    background:#f5de68;
+    }
+    body > div.fs-root > div > div.fs-campaign-info > div > div > div.col-md-6.fs-countdown.text-center.d-js-viewport-in > h3,.fs-footer .row>div:nth-of-type(1) h3, .fs-countdown .fs-countdown-widget .fs-countdown-unit .fs-countdown-description, .fs-countdown .fs-countdown-widget .fs-countdown-sep{
+    color:#16396a;
+    }
+    /*maximize in countdown*/
+    .fs-countdown h3 strong {
+        color:#16396a;
+    }
+    /*left until...*/
+    h3.fs-countdown-message {
+        color: #16396a !important;
+    } 
     
