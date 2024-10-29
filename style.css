@@ -17,6 +17,12 @@
     color:white !important;
     font-size:30px !important;
    }
+   .page-header .a-delay-200ms{
+    color:#f5de68 !important;
+   }
+    .page-header .a-delay-400ms{
+    color:#fff !important;
+   }
 
 /*buttons */
 .donate-button .donate-button-text {
