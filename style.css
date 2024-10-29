@@ -89,7 +89,7 @@
     background: #16396a;
     }
     .donar-section .nav-tabs .nav-item:hover .nav-link{
-        border-bottom:#FFF !important;
+        border-bottom:3px solid #FFF !important;
     }
     .donar-section .nav-tabs .nav-item.active .nav-link, .donar-section .nav-tabs .nav-link{
         color:#FFF !important;
