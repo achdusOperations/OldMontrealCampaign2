@@ -84,17 +84,73 @@
         color:#16396a !important;
     }
  
-/*donor listing*/
-   /*top line*/
-   .fs-partners>div{
-    border-top:6px solid #16396a;
+/*donate section*/
+   .donar-section{
+    background: #16396a;
     }
-    /*"our donors"*/
-   .text-center h3, .fs-partners h3 span {
-    color:#FFF;
+    .donar-section .nav-tabs .nav-item:hover .nav-link{
+        border-bottom:#FFF !important;
+    }
+    .donar-section .nav-tabs .nav-item.active .nav-link, .donar-section .nav-tabs .nav-link{
+        color:#FFF !important;
     }
      /*"view all donors / be the first"*/
    .js-donors-list .fs-btn,.js-donors-list .fs-btn:hover{
     background:#f5de68;
     border-radius: 25px !important;
     }
+
+    /*team section*/
+    .donar-section{
+        background: #f5cbc9;
+     }
+     .donate-members .donates_user .donate-A{
+         background:#3B244D
+     }
+     .donate-members .donates_user .donate-A .donate-triangle{
+         border-right: 26px solid #3B244D;
+     }
+     .progress-flex .S-label span,.donate-members .donates_user .left_userd .user-name, .donar-section .nav-tabs .nav-item.active .nav-link, .team-members .team-users .donor-team span{
+         color:#3B244D;
+     }
+     .donar-section .nav-tabs .nav-item.active .nav-link, .donar-section .nav-tabs .nav-item:hover .nav-link{
+         border-bottom: 3px solid #3B244D;
+     }
+     .donar-section .nav-tabs .nav-link {
+         color:#FFF;
+     }
+     #donors > div > div.js-donors-list > div > div:nth-child(1) > div > div > div.left_userd > div > span, .donate-members .donates_user .team-up{
+         color:#40DFAF;
+     }
+     /*button in team*/
+     .btns-flex .view-btn{
+         background:#FFF;
+         color:#3B244D;
+         border-color: #3B244D;
+         border-radius: 25px;
+         
+     }
+     .btns-flex .view-btn:hover, .btns-flex .donate-btns{
+         background:#3B244D;
+         color:#FFF;
+         border-color: #3B244D;
+         border-radius: 25px;
+     }
+      .btns-flex .donate-btns:hover{
+         background:#FFF !important;
+         color:#3B244D !important;
+         border-color: #3B244D !important;
+      }
+     /*progression bar*/
+     .progress-flex .progress .progress-bar{
+         background:#3B244D;
+     }
+     /*donate in team*/
+     .donate-now, donate-now:hover, .team-donate-btn, .team-donate-btn:hover{
+         border-radius: 25px;
+         background: #3B244D;
+         color: #FFF;
+     }
+     .donate-now .right-arrow{
+         display:none;
+     }
