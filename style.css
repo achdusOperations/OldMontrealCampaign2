@@ -102,56 +102,25 @@
 
 /*team section*/
 
-.team-members .team-users{
-    border-radius:50px !important;
+    .team-members .team-users{
+        border-radius:50px !important;
+    }
+    /*left button*/
+    a.view-btn.btn.js-team-detail, a.view-btn.btn.js-team-detail:hover {
+        background:#f5de68 !important;
+    }
+    /*right button*/
+    a.view-btn.btn.donate-btns.js-team-open-donate.common-donate, a.view-btn.btn.donate-btns.js-team-open-donate.common-donate:hover{
+        background: #16396a !important;
+    }
+    /*filler*/
+    .progress-flex .progress .progress-bar{
+        background:#f5de68 !important;
+    }
+/*about campaign*/
+#Description h3, #about_modal h3{
+    color:#16396a !important;
 }
-     .donate-members .donates_user .donate-A{
-         background:#3B244D
-     }
-     .donate-members .donates_user .donate-A .donate-triangle{
-         border-right: 26px solid #3B244D;
-     }
-     .progress-flex .S-label span,.donate-members .donates_user .left_userd .user-name, .donar-section .nav-tabs .nav-item.active .nav-link, .team-members .team-users .donor-team span{
-         color:#3B244D;
-     }
-     .donar-section .nav-tabs .nav-item.active .nav-link, .donar-section .nav-tabs .nav-item:hover .nav-link{
-         border-bottom: 3px solid #3B244D;
-     }
-     .donar-section .nav-tabs .nav-link {
-         color:#FFF;
-     }
-     #donors > div > div.js-donors-list > div > div:nth-child(1) > div > div > div.left_userd > div > span, .donate-members .donates_user .team-up{
-         color:#40DFAF;
-     }
-     /*button in team*/
-     .btns-flex .view-btn{
-         background:#FFF;
-         color:#3B244D;
-         border-color: #3B244D;
-         border-radius: 25px;
-         
-     }
-     .btns-flex .view-btn:hover, .btns-flex .donate-btns{
-         background:#3B244D;
-         color:#FFF;
-         border-color: #3B244D;
-         border-radius: 25px;
-     }
-      .btns-flex .donate-btns:hover{
-         background:#FFF !important;
-         color:#3B244D !important;
-         border-color: #3B244D !important;
-      }
-     /*progression bar*/
-     .progress-flex .progress .progress-bar{
-         background:#3B244D;
-     }
-     /*donate in team*/
-     .donate-now, donate-now:hover, .team-donate-btn, .team-donate-btn:hover{
-         border-radius: 25px;
-         background: #3B244D;
-         color: #FFF;
-     }
-     .donate-now .right-arrow{
-         display:none;
-     }
+#Description h4, #about_modal h4{
+    color:#16396a
+}
