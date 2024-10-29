@@ -1,5 +1,4 @@
-/* deep red #951903 */
-/* orange #F8A147 */
+
 /*hero image*/
 .fs-header:before {
     background-image: 
@@ -36,7 +35,7 @@
     .fs-goal{
     background:#FFF ;
     }
-    .fs-goal .fs-goal-text strong , .fs-goal .fs-goal-graph-container .fs-goal-graph-text{
+    .fs-goal .fs-goal-graph-container .fs-goal-graph-text span,.fs-goal .fs-goal-text .fs-goal-amount, .fs-goal .fs-goal-text strong , .fs-goal .fs-goal-graph-container .fs-goal-graph-text{
     color:#16396a;
     }
     /*goal meter not filled and then filled*/
