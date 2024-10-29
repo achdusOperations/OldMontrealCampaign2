@@ -1,4 +1,10 @@
-
+/*remove logo*/
+.fs-header-top .fs-logo-container{
+    display:none !important;
+}
+.fs-header-top{
+    border:none !important;
+}
 /*hero image*/
 .fs-header:before {
     background-image: 
