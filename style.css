@@ -11,3 +11,18 @@
    background-size:100% 100%;
    }
    }
+   /*text hero*/
+   .fs-header .page-header h1 small{
+    color:white !important;
+    font-size:30px !important;
+   }
+
+   /*buttons */
+.donate-button .donate-button-text {
+    background:#f5de68 !important;
+  border-radius: 25px !important;
+  color:#16396a !important;
+  }
+  .donate-button .donate-button-text:hover{
+    background: #FFF !important;
+  }
