@@ -17,7 +17,7 @@
     font-size:30px !important;
    }
 
-   /*buttons */
+/*buttons */
 .donate-button .donate-button-text {
     background:#f5de68 !important;
   border-radius: 25px !important;
@@ -26,3 +26,22 @@
   .donate-button .donate-button-text:hover{
     background: #FFF !important;
   }
+
+/*goal section*/
+    .jumbotron.fs-header {
+        border-bottom: 4px solid #FFF;
+    }
+    .fs-goal{
+    background:#FFF ;
+    }
+    .fs-goal .fs-goal-text strong , .fs-goal .fs-goal-graph-container .fs-goal-graph-text{
+    color:#16396a;
+    }
+    /*goal meter not filled and then filled*/
+    .fs-goal-graph-fill{
+        background:#16396a !important;
+    }
+    .fs-goal-graph{
+        background: #f5de68 !important;
+    }
+    
