@@ -88,7 +88,7 @@
    .donar-section{
     background: #16396a;
     }
-    .donar-section .nav-tabs .nav-item:hover .nav-link{
+    .donar-section .nav-tabs .nav-item.active .nav-link, .donar-section .nav-tabs .nav-item:hover .nav-link,.donar-section .nav-tabs .nav-item:hover .nav-link{
         border-bottom:3px solid #FFF !important;
     }
     .donar-section .nav-tabs .nav-item.active .nav-link, .donar-section .nav-tabs .nav-link{
@@ -101,6 +101,10 @@
     }
 
 /*team section*/
+
+.team-members .team-users{
+    border-radius:50px !important;
+}
      .donate-members .donates_user .donate-A{
          background:#3B244D
      }
