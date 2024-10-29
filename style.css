@@ -1,13 +1,13 @@
 /*hero image*/
 .fs-header:before {
     background-image: 
-   url("https://www.chabadone.org/media/images/1255/KHjA12559447.png");
+   url("https://chabadoldmontreal.com/media/images/1296/YekK12961234.png");
    background-size:100% 100%;
    }
    @media screen and (max-width: 700px) {
    .fs-header:before {
     background-image: 
-   url("https://www.chabadone.org/media/images/1256/ebDV12560523.png");
+   url("https://chabadoldmontreal.com/media/images/1296/vbTX12961259.png");
    background-size:100% 100%;
    }
    }
