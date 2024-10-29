@@ -77,4 +77,10 @@
     .fs-donate .fs-donate-amounts {
         color:#FFF;
     }
+    /*button*/
+    .fs-btn, .fs-btn:hover{
+        background-color: #FFF !important;
+        border-radius: 25px !important;
+        color:#16396a !important;
+    }
  
