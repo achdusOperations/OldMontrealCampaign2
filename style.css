@@ -63,18 +63,18 @@
     
 /*section next to countdown*/
    .fs-donate {
-        background:#F8A147
+        background:#16396a
     }
 
     /*body > div.fs-root > div > div.fs-campaign-info > div > div > div.col-md-6.fs-donate.fs-donatable.text-center.vertical-align.d-js-viewport-in > div.fs-left-border-triangle > svg > polygon{
     fill:#F8A147
     }*/
     div.fs-top-border-triangle > svg > polygon, div.fs-left-border-triangle > svg > polygon{
-        fill:#F8A147
+        fill:#16396a;
     }
 
     /*dollar sign*/
     .fs-donate .fs-donate-amounts {
-        color:#951903
+        color:#FFF;
     }
  
