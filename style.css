@@ -1,4 +1,15 @@
-/*remove logo*/
+@import url('https://fonts.googleapis.com/css2?family=Modak&display=swap');
+
+/*header*/
+/*donate button*/
+.fs-header-top .fs-top-tools .fs-btn{
+    background:#f5de68 !important;
+    border-radius: 25px !important;
+}
+a.a2a_button_facebook, a.a2a_button_twitter, a.a2a_button_email, a.a2a_dd{
+    background:#f5de68 !important;
+}
+    /*remove logo*/
 .fs-header-top .fs-logo-container{
     display:none !important;
 }
@@ -25,6 +36,7 @@
    }
    .page-header .a-delay-200ms{
     color:#f5de68 !important;
+    font-family: "Modak", system-ui;
    }
     .page-header .a-delay-400ms{
     color:#fff !important;
@@ -100,6 +112,8 @@
         background-color: #FFF !important;
         border-radius: 25px !important;
         color:#16396a !important;
+        font-size:medium !important;
+        font-weight:bold !important;
     }
  
 /*donate section*/
@@ -116,6 +130,10 @@
    .js-donors-list .fs-btn,.js-donors-list .fs-btn:hover{
     background:#f5de68;
     border-radius: 25px !important;
+    }
+    /*name of team in donor tag*/
+    .team-up span{
+        color:#f5de68 !important;
     }
 
 /*team section*/
@@ -135,10 +153,30 @@
     .progress-flex .progress .progress-bar{
         background:#f5de68 !important;
     }
+/*team page*/
+    /*button*/
+    .team-donate-btn.btn.team-tab.js-team-open-donate.common-donate{
+        border-radius: 25px !important;
+    }    
+    /*tag with amount*/
+    .donate-members .donates_user .donate-A{
+        background:#f5de68 !important;
+    }
+    .donate-triangle{
+       border-right: 26px solid #f5de68
+    }
+    .progress-flex .S-label span,.donate-members .donates_user .left_userd .user-name, .donar-section .nav-tabs .nav-item.active .nav-link, .team-members .team-users .donor-team span{
+        color:#f5de68;
+    }
+    .donar-section .nav-tabs .nav-item.active .nav-link, .donar-section .nav-tabs .nav-item:hover .nav-link{
+        border-bottom: 3px solid #f5de68;
+    }
 /*about campaign*/
 #Description h3, #about_modal h3{
     color:#16396a !important;
+    font-family: "Modak", system-ui !important;
 }
 #Description h4, #about_modal h4{
-    color:#16396a
+    color:#16396a;
+   
 }
