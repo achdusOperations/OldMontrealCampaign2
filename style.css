@@ -139,18 +139,30 @@ a.a2a_button_facebook, a.a2a_button_twitter, a.a2a_button_email, a.a2a_dd{
     }
 
 /*team section*/
-#profile .donar-section .right-filters-data .form-control{
+.donar-section .right-filters-data .form-control{
     border-radius:25px !important;
 }
-#profile .donar-section .right-filters-data .input-group{
+.donar-section .right-filters-data .input-group{
     border-radius:35px !important;
 }
-#profile .right-filters-data .input-group .input-group-addon{
+.right-filters-data .input-group .input-group-addon{
     border-radius: 30px !important;
 }
-    #profile .team-members .team-users{
+    .team-members .team-users{
         border-radius:60px !important;
     }
+    #donors .donar-section .right-filters-data .form-control{
+        border-radius:0px !important;
+    }
+    #donors .donar-section .right-filters-data .input-group{
+        border-radius:0px !important;
+    }
+   #donors .right-filters-data .input-group .input-group-addon{
+        border-radius: 0px !important;
+    }
+       #donors .team-members .team-users{
+            border-radius:0px !important;
+        }
     /*left button*/
     a.view-btn.btn.js-team-detail, a.view-btn.btn.js-team-detail:hover {
         background:#f5de68 !important;
