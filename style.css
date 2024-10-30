@@ -140,7 +140,7 @@ a.a2a_button_facebook, a.a2a_button_twitter, a.a2a_button_email, a.a2a_dd{
 
 /*team section*/
 .donar-section .right-filters-data .form-control{
-    boder-radius:25px !important;
+    border-radius:25px !important;
 }
 .donar-section .right-filters-data .input-group{
     border-radius:35px !important;
@@ -159,11 +159,12 @@ a.a2a_button_facebook, a.a2a_button_twitter, a.a2a_button_email, a.a2a_dd{
     a.view-btn.btn.donate-btns.js-team-open-donate.common-donate, a.view-btn.btn.donate-btns.js-team-open-donate.common-donate:hover{
         background: #16396a !important;
     }
-    /*filler*/
-    .progress-flex .progress .progress-bar{
-        background:#f5de68 !important;
-    }
+    
 /*team page*/
+/*filler*/
+.progress-flex .progress .progress-bar{
+    background:#f5de68 !important;
+}
     /*button*/
     .team-donate-btn.btn.team-tab.js-team-open-donate.common-donate{
         border-radius: 25px !important;
@@ -175,9 +176,7 @@ a.a2a_button_facebook, a.a2a_button_twitter, a.a2a_button_email, a.a2a_dd{
     .donate-triangle{
        border-right: 26px solid #f5de68 !important;
     }
-    .progress-flex .S-label span, .team-members .team-users .donor-team span{
-        color:#f5de68 !important;
-    }
+    
     
     /*top page*/
     /*tick*/
