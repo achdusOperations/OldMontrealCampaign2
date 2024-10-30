@@ -79,10 +79,12 @@ a.a2a_button_facebook, a.a2a_button_twitter, a.a2a_button_email, a.a2a_dd{
     /*maximize in countdown*/
     .fs-countdown h3 strong {
         color:#16396a;
+        font-family: "Modak", system-ui !important;
     }
     /*left until...*/
     h3.fs-countdown-message {
         color: #16396a !important;
+        font-family: ;
     } 
     /*full width*/
     .fs-countdowndonate{
@@ -170,6 +172,15 @@ a.a2a_button_facebook, a.a2a_button_twitter, a.a2a_button_email, a.a2a_dd{
     }
     .donar-section .nav-tabs .nav-item.active .nav-link, .donar-section .nav-tabs .nav-item:hover .nav-link{
         border-bottom: 3px solid #f5de68;
+    }
+    /*top page*/
+    /*tick*/
+    .progress-flex .check-mark{
+        color:#f5de68 !important;
+    }
+    /*button*/
+    a.team-donate-btn.btn.donate-now.js-team-open-donate.common-donate{
+        border-radius: 25px !important;
     }
 /*about campaign*/
 #Description h3, #about_modal h3{
