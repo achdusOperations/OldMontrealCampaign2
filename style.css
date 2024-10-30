@@ -139,7 +139,15 @@ a.a2a_button_facebook, a.a2a_button_twitter, a.a2a_button_email, a.a2a_dd{
     }
 
 /*team section*/
-
+.donar-section .right-filters-data .form-control{
+    boder-radius:25px !important;
+}
+.donar-section .right-filters-data .input-group{
+    border-radius:35px !important;
+}
+.right-filters-data .input-group .input-group-addon{
+    border-radius: 30px !important;
+}
     .team-members .team-users{
         border-radius:50px !important;
     }
