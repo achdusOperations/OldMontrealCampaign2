@@ -175,7 +175,7 @@ a.a2a_button_facebook, a.a2a_button_twitter, a.a2a_button_email, a.a2a_dd{
     .donate-triangle{
        border-right: 26px solid #f5de68 !important;
     }
-    .progress-flex .S-label span, .donar-section .nav-tabs .nav-item.active .nav-link, .team-members .team-users .donor-team span{
+    .progress-flex .S-label span, .team-members .team-users .donor-team span{
         color:#f5de68 !important;
     }
     .donar-section .nav-tabs .nav-item.active .nav-link, .donar-section .nav-tabs .nav-item:hover .nav-link{
