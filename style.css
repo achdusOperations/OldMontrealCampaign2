@@ -178,9 +178,7 @@ a.a2a_button_facebook, a.a2a_button_twitter, a.a2a_button_email, a.a2a_dd{
     .progress-flex .S-label span, .team-members .team-users .donor-team span{
         color:#f5de68 !important;
     }
-    .donar-section .nav-tabs .nav-item.active .nav-link, .donar-section .nav-tabs .nav-item:hover .nav-link{
-        border-bottom: 3px solid #f5de68 !important;
-    }
+    
     /*top page*/
     /*tick*/
     .progress-flex .check-mark{
