@@ -149,22 +149,25 @@ a.a2a_button_facebook, a.a2a_button_twitter, a.a2a_button_email, a.a2a_dd{
     border-radius: 30px !important;
 }
     .team-members .team-users{
-        border-radius:50px !important;
+        border-radius:60px !important;
     }
     /*left button*/
     a.view-btn.btn.js-team-detail, a.view-btn.btn.js-team-detail:hover {
         background:#f5de68 !important;
+        border-radius: 25px !important;
     }
     /*right button*/
     a.view-btn.btn.donate-btns.js-team-open-donate.common-donate, a.view-btn.btn.donate-btns.js-team-open-donate.common-donate:hover{
         background: #16396a !important;
+        border-radius: 25px !important;
+    }
+    /*filler*/
+    .progress-flex .progress .progress-bar{
+        background:#f5de68 !important;
     }
     
 /*team page*/
-/*filler*/
-.progress-flex .progress .progress-bar{
-    background:#f5de68 !important;
-}
+
     /*button*/
     .team-donate-btn.btn.team-tab.js-team-open-donate.common-donate{
         border-radius: 25px !important;
