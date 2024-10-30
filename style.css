@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Modak&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Knewave&display=swap');
 
 /*header*/
 /*donate button*/
@@ -36,7 +36,7 @@ a.a2a_button_facebook, a.a2a_button_twitter, a.a2a_button_email, a.a2a_dd{
    }
    .page-header .a-delay-200ms{
     color:#f5de68 !important;
-    font-family: "Modak", system-ui;
+    font-family: "Knewave", system-ui;
    }
     .page-header .a-delay-400ms{
     color:#fff !important;
@@ -79,7 +79,7 @@ a.a2a_button_facebook, a.a2a_button_twitter, a.a2a_button_email, a.a2a_dd{
     /*maximize in countdown*/
     .fs-countdown h3 strong {
         color:#16396a;
-        font-family: "Modak", system-ui !important;
+        font-family: "Knewave", system-ui !important;
     }
     /*left until...*/
     h3.fs-countdown-message {
@@ -151,18 +151,7 @@ a.a2a_button_facebook, a.a2a_button_twitter, a.a2a_button_email, a.a2a_dd{
     .team-members .team-users{
         border-radius:60px !important;
     }
-    #donors .donar-section .right-filters-data .form-control{
-        border-radius:0px !important;
-    }
-    #donors .donar-section .right-filters-data .input-group{
-        border-radius:0px !important;
-    }
-   #donors .right-filters-data .input-group .input-group-addon{
-        border-radius: 0px !important;
-    }
-       #donors .team-members .team-users{
-            border-radius:0px !important;
-        }
+   
     /*left button*/
     a.view-btn.btn.js-team-detail, a.view-btn.btn.js-team-detail:hover {
         background:#f5de68 !important;
@@ -205,7 +194,7 @@ a.a2a_button_facebook, a.a2a_button_twitter, a.a2a_button_email, a.a2a_dd{
 /*about campaign*/
 #Description h3, #about_modal h3{
     color:#16396a !important;
-    font-family: "Modak", system-ui !important;
+    font-family: "Knewave", system-ui !important;
 }
 #Description h4, #about_modal h4{
     color:#16396a;
@@ -232,7 +221,7 @@ a.a2a_button_facebook, a.a2a_button_twitter, a.a2a_button_email, a.a2a_dd{
         /*titles*/
         .title, .recurring-length-label, .fs-full-donate-form .fs-donate-body .fs-donate-section h3, .content  {
     color:#16396a !important;
-    font-family: "Modak", system-ui !important;
+    font-family: "Knewave", system-ui !important;
     }
     /*amount boxes*/
     .fs-full-donate-form .fs-donate-body .fs-donation-options .fs-donation-option span.fs-option-name>*{
