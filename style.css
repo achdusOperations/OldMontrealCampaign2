@@ -207,3 +207,48 @@ a.a2a_button_facebook, a.a2a_button_twitter, a.a2a_button_email, a.a2a_dd{
     .fs-footer .row>div:nth-of-type(1) h3, .fs-footer .row>div:nth-of-type(2) h3 , address {
         color:#FFF;
     }
+
+/*donate page*/
+    /*header*/
+    /*.fs-full-donate-form .fs-donate-header{
+        background:#3B244D;
+        
+    }
+    .fs-full-donate-form .fs-donate-header .fs-text {
+        color:#FFF;
+    }
+        /*titles*/
+        .title, .recurring-length-label, .fs-full-donate-form .fs-donate-body .fs-donate-section h3, .content  {
+    color:#16396a !important;
+    font-family: "Modak", system-ui !important;
+    }
+    /*amount boxes*/
+    .fs-full-donate-form .fs-donate-body .fs-donation-options .fs-donation-option span.fs-option-name>*{
+        background-color: #f5de68;
+        color:#16396a;
+        border-radius:25px;
+    }
+    /*amount boxes when selected*/
+    .fs-full-donate-form .fs-donate-body .fs-donation-options .fs-donation-option.fs-other label.selected, .fs-full-donate-form .fs-donate-body .fs-donation-options .fs-donation-option.selected .fs-option-name>div {
+        background:#16396a;
+        color:#FFF
+    
+    }
+    /*button*/
+    button.btn.fs-btn.fs-btn-donate.fs-donate-body-horizontal-padding {
+        border-radius: 25px !important;
+        background:#f5de68 !important
+    }
+    
+    /*payment information boxes*/
+    /*.fs-full-donate-form .fs-donate-body .fs-donate-section .fs-payment-method .radio-inline span {
+        border:1px solid #3B244D;
+        border-radius:25px;
+    }
+    .fs-full-donate-form .fs-donate-body .fs-donate-section .fs-payment-method .radio-inline input:checked+span:before {
+        border-top:10px solid #3B244D;
+    }
+    .fs-full-donate-form .fs-donate-body .fs-donate-section .fs-payment-method .radio-inline input:checked+span{
+        background:#3B244D !important;
+        color:#FFF !important;
+    }
