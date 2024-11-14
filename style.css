@@ -253,3 +253,11 @@ a.a2a_button_facebook, a.a2a_button_twitter, a.a2a_button_email, a.a2a_dd{
         background:#3B244D !important;
         color:#FFF !important;
     }
+
+    /*team button*/
+    .team-donate-btn.btn.team-tab.js-team-create {
+    border-radius: 25px !important;
+    background:#FFF !important;
+    color:#16396a !important
+    ;
+}
