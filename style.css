@@ -239,3 +239,36 @@ a.a2a_button_facebook, a.a2a_button_twitter, a.a2a_button_email, a.a2a_dd{
     color:#16396a !important
     ;
 }
+
+/*matchers*/
+
+    /*section*/
+    .fs-matchers{
+        background:none !important;
+        border-bottom: none !important;
+    }
+    /*circle with picture*/
+    .fs-matchers .fs-matcher .fs-matcher-image .fs-image-wrap-max{
+        width:110px !important;
+        max-width: 110% !important;
+    }
+    /*title*/
+    body > div > div > div.fs-campaign-info > div.container-fluid.fs-matchers > div > h3 span{
+        text-transform: uppercase !important;
+        color: #16396a !important;
+    }
+    .fs-matchers .fs-matcher .fs-matcher-title{
+        font-size: 26px !important;
+        color: #16396a !important;
+    }
+    /*donors names on separate lines. width is 100% divided by amount of matching categories*/
+    .fs-matchers .fs-matcher  {
+        margin-right:0px;
+        margin-left:0px;
+        width:50%;
+      }
+      @media (max-width: 991px){
+        .fs-matchers .fs-matcher{
+          width:100%;
+        }
+      }
