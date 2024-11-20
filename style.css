@@ -257,6 +257,10 @@ a.a2a_button_facebook, a.a2a_button_twitter, a.a2a_button_email, a.a2a_dd{
         text-transform: uppercase !important;
         color: #16396a !important;
     }
+    .fs-matchers .fs-matchers-intro{
+        position:relative !important;
+        top:208px !important;
+    }
     .fs-matchers .fs-matcher .fs-matcher-title{
         font-size: 26px !important;
         color: #16396a !important;
