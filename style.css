@@ -69,6 +69,13 @@ a.a2a_button_facebook, a.a2a_button_twitter, a.a2a_button_email, a.a2a_dd{
     .fs-goal-graph{
         background: #16396a !important;
     }
+    /*center goal*/
+    @media (min-width:992px){
+        .fs-goal .fs-goal-text{
+        display: flex !important;
+        justify-content: center !important;
+        }
+    }
 /*countdown*/
     .fs-countdown {
     background:#f5de68;
