@@ -256,6 +256,7 @@ a.a2a_button_facebook, a.a2a_button_twitter, a.a2a_button_email, a.a2a_dd{
     body > div > div > div.fs-campaign-info > div.container-fluid.fs-matchers > div > h3 span{
         text-transform: uppercase !important;
         color: #16396a !important;
+        font-size:20px !important;
     }
     .fs-matchers .fs-matchers-intro{
         position:relative !important;
