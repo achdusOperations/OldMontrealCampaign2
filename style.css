@@ -254,6 +254,12 @@ a.a2a_button_facebook, a.a2a_button_twitter, a.a2a_button_email, a.a2a_dd{
         background:none !important;
         border-bottom: none !important;
     }
+    @media (max-width:991px){
+        .fs-campaign-info{
+            background:none !important;
+            border-bottom: none !important;
+        }
+    }
     /*circle with picture*/
     .fs-matchers .fs-matcher .fs-matcher-image .fs-image-wrap-max{
         width:110px !important;
