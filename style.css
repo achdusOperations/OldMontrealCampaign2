@@ -274,6 +274,14 @@ a.a2a_button_facebook, a.a2a_button_twitter, a.a2a_button_email, a.a2a_dd{
     .fs-matchers .fs-matchers-intro{
         position:relative !important;
         top:208px !important;
+        
+    }
+    @media (max-width:991px){
+        .fs-matchers .fs-matchers-intro{
+            position:relative !important;
+            top:486px !important;
+            margin-top:-70px !important;
+        }
     }
     .container-fluid.fs-matchers{
         margin-bottom:20px !important;
