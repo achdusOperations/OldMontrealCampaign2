@@ -299,7 +299,7 @@ a.a2a_button_facebook, a.a2a_button_twitter, a.a2a_button_email, a.a2a_dd{
         color: #16396a;
         font-weight: bold;
     }
-       /*donors names on separate lines. width is 100% divided by amount of matching categories*/
+       /*donors buttons on separate lines. width is 100% divided by amount of matching categories (if more than 4 do 33%)*/
        .fs-matchers .fs-matcher  {
         width:33%;
       }
