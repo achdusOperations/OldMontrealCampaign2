@@ -301,8 +301,6 @@ a.a2a_button_facebook, a.a2a_button_twitter, a.a2a_button_email, a.a2a_dd{
     }
        /*donors names on separate lines. width is 100% divided by amount of matching categories*/
        .fs-matchers .fs-matcher  {
-        margin-right:0px;
-        margin-left:0px;
         width:33%;
       }
       @media (max-width: 991px){
