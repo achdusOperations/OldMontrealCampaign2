@@ -295,7 +295,9 @@ a.a2a_button_facebook, a.a2a_button_twitter, a.a2a_button_email, a.a2a_dd{
         color: #16396a !important;
     }
     .fs-matchers .fs-matcher .fs-matcher-subtitle{
-        font-size: 1.4em;
+        font-size: 1.6em;
+        color: #16396a;
+        font-weight: bold;
     }
        /*donors names on separate lines. width is 100% divided by amount of matching categories*/
        .fs-matchers .fs-matcher  {
