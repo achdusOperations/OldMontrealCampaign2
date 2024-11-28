@@ -271,15 +271,15 @@ a.a2a_button_facebook, a.a2a_button_twitter, a.a2a_button_email, a.a2a_dd{
         color: #16396a !important;
         font-size:20px !important;
     }
-    .fs-matchers .fs-matchers-intro{
+   /* .fs-matchers .fs-matchers-intro{
         position:relative !important;
         top:427px !important;
         
-    }
+    
     .container-fluid.fs-matchers{
         margin-bottom:20px !important;
     }
-    @media (max-width:991px){
+   /* @media (max-width:991px){
         .fs-matchers .fs-matchers-intro{
             position:relative !important;
             top: 758px !important;
@@ -288,7 +288,7 @@ a.a2a_button_facebook, a.a2a_button_twitter, a.a2a_button_email, a.a2a_dd{
         .container-fluid.fs-matchers{
             margin-bottom: 70px !important;
         }
-    }
+    }*/
    
     .fs-matchers .fs-matcher .fs-matcher-title{
         font-size: 26px !important;
